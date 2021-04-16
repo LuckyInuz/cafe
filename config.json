@@ -1,0 +1,12 @@
+{
+  "token": "--token--",
+  "prefix": "--prefix--",
+  "maincolor": "#ffd56d",
+
+  "mainguild_id": "--SERVER ID--",
+  "log": "--LOG CHANNEL--",
+
+  "channel_cafe": "--CAFE CHANNEL--" ,
+  "channel_sender": "--SENDER CHANNEL--" , 
+  "channel_staff": "--STAFF CHANNEL-" 
+}
